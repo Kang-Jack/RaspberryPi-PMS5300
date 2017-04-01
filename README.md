@@ -1,3 +1,8 @@
 # My Awesome Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+An instruction of How to build up AQI monitor by using Raspberry Pi and Plantower sensor
+
+
+
+
+
