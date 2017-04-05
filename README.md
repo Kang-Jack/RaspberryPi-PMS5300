@@ -6,11 +6,11 @@ the corresponding python code for Raspberry pi, please see : [https://github.com
 
 ![](/assets/2.png)
 
+Display  PM2.5 iAQI with US standard
+
 ![](/assets/3.png)
 
-![](/assets/yeelink.png)
+Display  PM2.5 iAQI with Chinese standard
 
-
-
-
+![](/assets/yeelink.png)Upload PM2.5 iAQI to Yeelink \(with internet available\)
 
