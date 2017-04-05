@@ -4,3 +4,11 @@
 
 ![](/assets/data2.png)
 
+sample data
+
+![](/assets/data3.png)
+
+
+
+![](/assets/data4.png)
+
