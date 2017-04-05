@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [AQI](chapter1.md)
-* BOM
-* Selutions
+* [BOM](bom.md)
+* [Selutions](selutions.md)
 * Plantower
 * Pis
 * Others
