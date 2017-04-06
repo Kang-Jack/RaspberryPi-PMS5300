@@ -1,0 +1,13 @@
+PT_SET_PIN3 = 4 #Plantower pin3 to Raspbeery GPIO pin  broadcom name . in this pin7 Raspberry name 7 broadcom name 4
+PT_SERIAL_PORT = "/dev/ttyAMA0" # serial port name could be ttyS0 or ttyAMA0 
+PT_BAUDRATE = 9600
+IF_UPLOADING_YEELINK =1 
+YEELINK_API_KEY = "Your YEELINK Private Key"
+YEELINK_EQUIP_1_KEY="Your YEELINK Equipment id"
+YEELINK_PM2_5_ATM_KEY="Your YEELINK Sensor id"
+YEELINK_PM2_5_CF1_KEY="Your YEELINK Sensor id"
+YEELINK_PM2_5_NUM_KEY="Your YEELINK Sensor id"
+YEELINK_AQI_2_5_KEY="Your YEELINK Sensor id"
+YEELINK_CPU_TEM_KEY="Your YEELINK Sensor id"
+IS_DEBUG = 1 #open debug print out
+IS_DISPLAY_CF_IAQI = 0
