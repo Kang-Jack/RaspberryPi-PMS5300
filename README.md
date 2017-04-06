@@ -13,9 +13,8 @@ The corresponding How to book, please see : [https://kang-jack.gitbooks.io/raspb
 
 * Detecting the quality and number of each particles with different size per unit volume:
 
-        1. Concentration of PM1.0/PM2.5/PM10
-
-        2. The number of particles with of PM1.0/PM2.5/PM10  
+1. Concentration of PM1.0/PM2.5/PM10
+2. The number of particles with of PM1.0/PM2.5/PM10
 
 ```
       *Range of measurement 0.3 ~ 1.0 / 1. 0 ~ 2.5 / 2.5 ~ 10 Micrometer\(μ m\)
@@ -32,8 +31,6 @@ The corresponding How to book, please see : [https://kang-jack.gitbooks.io/raspb
 * Power saving strategies: by default the AQI monitor will be actived as initiative modle for first 20 mintues,
 
 then will switch back and forth between working model and sleeping model automaticlly with embeded power saving strategy.
-
-
 
 ![](/assets/2.png)
 
