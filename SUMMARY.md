@@ -5,7 +5,7 @@
 * [BOM](bom.md)
 * [Plantower](plantower.md)
 * [Setup RaspberryPi ](pis.md)
-* [Selutions](selutions.md)
 * [Put it together](put-it-together.md)
+* [Selutions](selutions.md)
 * [Others](others.md)
 
