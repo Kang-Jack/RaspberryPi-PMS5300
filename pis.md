@@ -1,4 +1,4 @@
-## **Raspberry Pi**
+## Setup **Raspberry Pi**
 
 ### Config raspberry release the serial port
 
@@ -54,7 +54,7 @@ sudo pip install apscheduler
    sudo chmod +x /etc/init.d/AQI
    ```
 
-** start / stop service  
+** start / stop service    
 **
 
 ```
