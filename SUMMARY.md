@@ -6,6 +6,6 @@
 * [Plantower](plantower.md)
 * [Setup RaspberryPi ](pis.md)
 * [Put it together](put-it-together.md)
-* [Selutions](selutions.md)
 * [Others](others.md)
+* [Reference](selutions.md)
 
