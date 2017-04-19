@@ -31,10 +31,9 @@ sudo apt-get install python-pip
 
 sudo easy\_install -U distribute
 
-sudo pip install rpi.gpi
+sudo pip install rpi.gpio
 
-
-sudo pip install serial
+sudo pip install pyserial
 
 sudo pip install psutil
 
@@ -54,7 +53,7 @@ sudo pip install apscheduler
    sudo chmod +x /etc/init.d/AQI
    ```
 
-** start / stop service    
+** start / stop service      
 **
 
 ```
