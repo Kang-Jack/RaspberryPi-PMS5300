@@ -13,6 +13,7 @@ import aqi_data_parser
 import aqi_sysinfo
 import aqi_yeelink
 import aqi_lcd
+import aqi_mqtt
 
 debug = aqi_settings.IS_DEBUG
 iAQIs = None
@@ -98,6 +99,7 @@ def display_AQIs():
     us_pm10_display = aqi_aqi_caculator.aqi_aqi_caculator.us_pm10_aqi_caculator(display[5])
     if debug: print us_pm2_5_display
     if debug: print us_pm10_display
+    aqi_mqtt.aqi_mqtt.publish_aqi.(us_pm2_5_display[0])
     aqi_lcd_monitor.display_us_pm2_5_aqi(us_pm2_5_display[0],us_pm2_5_display[1])
 
     if debug: print "=====CHN AQI======"
